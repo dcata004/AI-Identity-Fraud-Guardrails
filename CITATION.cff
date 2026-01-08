@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "AI Identity Fraud Guardrails"
+message: "If you use this software for PII detection or anti-fraud workflows, please cite it as below."
+type: software
+authors:
+  - family-names: "Cata"
+    given-names: "Anthony D."
+    affiliation: "Cata Risk Lab"
+version: 1.0.0
+date-released: 2026-01-08
+license: MIT
+repository-code: "https://github.com/dcata004/AI-Identity-Fraud-Guardrails"
+abstract: "An automated framework for detecting and blocking PII injection and Deepfake patterns in AI-generated content. Designed for identity verification and fraud prevention."
+keywords:
+  - "Identity Fraud"
+  - "PII Detection"
+  - "AI Security"
+  - "Fraud Prevention"
